@@ -1,12 +1,12 @@
 MINION_OS V1.
 Operating system written in C and assembly.
 
-800x600 screen resolution.
+800x600 screen resolution (but the mac address and filesystem part are in vga 320x 320 0xA0000).
 
 It has a filesystem, a shell, a user interface, a bad version of doom and other cool things.
 You can even destroy your PC's hardware.
 
-(CMO, BUT DON'T RUN IT ON REAL HARDWARE. IT WORKS, AND I CAN PROMISE IT.)
+**(CMO IS THE COMAND TO OVERWRITE THE CMOS, BUT DON'T RUN IT ON REAL HARDWARE. IT WORKS, AND I CAN PROMISE IT.)**
 
 Demo
 
