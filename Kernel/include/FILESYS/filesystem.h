@@ -178,7 +178,7 @@ void CMD_() {
         if (len < 0) return;
         if (len == 0) continue;
 
-        // create new file
+        // create new file - open a file
         if (len == 3 && input[0] == 'm' && input[1] == 'r' && input[2] == 'd') {
             clear_screen(0); print(8, 8, "Enter filename:", 15);
             char fname[MAX_FILENAME_LEN];
@@ -303,3 +303,4 @@ int FILESYS() {
     CMD_();
     return 0;
 }
+
