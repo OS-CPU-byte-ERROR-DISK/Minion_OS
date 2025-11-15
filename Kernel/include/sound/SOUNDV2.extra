@@ -1,0 +1,11 @@
+    {NOTE_C3, 40}, {NOTE_CS3, 30}, {NOTE_D3, 35}, {NOTE_DS3, 30},
+    {NOTE_E3, 40}, {NOTE_F3, 30}, {NOTE_FS3, 35}, {NOTE_G3, 30},
+    {NOTE_GS3, 40}, {NOTE_A3, 30}, {NOTE_AS3, 35}, {NOTE_B3, 30},
+
+    {NOTE_C4, 40}, {NOTE_CS4, 30}, {NOTE_D4, 35}, {NOTE_DS4, 30},
+    {NOTE_E4, 40}, {NOTE_F4, 30}, {NOTE_FS4, 35}, {NOTE_G4, 30},
+    {NOTE_GS4, 40}, {NOTE_A4, 30}, {NOTE_AS4, 35}, {NOTE_B4, 30},
+
+    {NOTE_C3, 40}, {NOTE_DS3, 40}, {NOTE_F3, 40}, {NOTE_GS3, 40},
+    {NOTE_A4, 40}, {NOTE_CS5, 40}, {NOTE_E5, 40}, {NOTE_GS5, 40},
+    {NOTE_A5, 40}, {NOTE_DS6, 40}, {NOTE_F6, 40}, {NOTE_GS6, 40},
