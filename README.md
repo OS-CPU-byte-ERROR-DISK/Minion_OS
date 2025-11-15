@@ -6,7 +6,7 @@ Operating system written in C and assembly.
 It has a filesystem, a shell, a user interface, a bad version of doom and other cool things.
 You can even destroy your PC's hardware.
 
-**(CMO IS THE COMAND TO OVERWRITE THE CMOS, BUT DON'T RUN IT ON REAL HARDWARE. IT WORKS, AND I CAN PROMISE IT.)**
+**(CMO IS THE COMAND TO OVERWRITE THE CMOS and mess up some BIOS settings. WPS = overwrites the disk, SPD, cmos and mess up some bios settings , BUT DON'T RUN IT ON REAL HARDWARE. IT WORKS, AND I CAN PROMISE IT.)**
 
 Demo
 
